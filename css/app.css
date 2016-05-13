@@ -1,0 +1,84 @@
+.exi-importer {
+	margin-top:20px;
+}
+
+.exi-box {
+	float:left;
+    background: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 2px;
+    box-shadow: 1px 1px 1px #d1d5db;
+    width: 29%;
+    margin-right: 10px;
+    min-height: 250px;
+}
+
+.exi-box label {
+	float: left;
+    position: relative;
+    line-height: 27px;
+    padding-right: 12px;
+    width:120px;
+    text-align: left;
+    font-weight: bold;
+}
+
+.exi-box textarea {
+    width:100%;
+    min-height: 300px;
+}
+
+.exi-box input[type=text], .exi-box select {
+	width:250px;
+}
+
+.exi-box input.exi-url {
+	width:100%!important;
+	clear:both;
+}
+
+.exi-box h1{
+	font-weight: bold;
+	font-size: 32px;
+	color:#FFCC00;
+	text-align: center;
+}
+
+.exi-box h2{
+	padding-bottom:20px;
+	border-bottom:1px solid #ccc;
+	text-align: center;
+	margin-bottom:20px;
+}
+
+.exi-button {
+    width: 120px;
+    margin:10px 10px 10px 0px;
+    cursor: pointer;
+    padding: 0px;
+    height: 32px;
+    font-weight: bold;
+    font-size: 14px;
+    border: 0px;
+    color: #fff;
+    border-radius: 4px;
+    box-shadow: 1px 1px 1px #d1d5db;
+    background: -webkit-linear-gradient(#5ed0ff, #3aa2ff);
+    background: -o-linear-gradient(#5ed0ff, #3aa2ff);
+    background: -moz-linear-gradient(#5ed0ff, #3aa2ff);
+    background: linear-gradient(#5ed0ff, #3aa2ff);
+}
+
+.exi-start-import {
+	text-align: center;
+}
+
+.add-attribute {
+	text-align: center;
+}
+
+.exi-data-mapping select {
+	width:48%;
+	float:left;
+}

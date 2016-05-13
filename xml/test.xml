@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<batch>
+<information datetime="2007-12-07T14:12:59.0000000-01:00" system="sys" description="" />
+<sagliste>
+
+<sag nummer="114-1001"
+ ejendomstype="Fritidshus"
+ adresse="Stubbegårdsparken 42"
+ postnummer="4900"
+ antalrum="3"
+ etage="1"
+ etageside="1"
+ arealbolig="105"
+ arealkaelder="0"
+ arealgrund="908"
+ byggeaar="2005"
+ ydelsebrutto="5296"
+ ydelsenetto="4073"
+ kontantpris="995000"
+ udbetaling="50000"
+ kommunenavn="Lolland"
+ aabenthus=""
+ foto1="http://www.realholding.dk/x800/114-1001-20.jpg"
+ foto2="http://www.realholding.dk/x800/114-1001-21.jpg"
+ url="http://www.realmaeglerne.dk/privat/emnevisning.aspx?sag=114-1001" />
+
+<sag nummer="154-615"
+ ejendomstype="Fritidshus"
+ adresse="Irisvej 9"
+ postnummer="3630"
+ antalrum="4"
+ etage="0"
+ etageside="0"
+ arealbolig="98"
+ arealkaelder="0"
+ arealgrund="1039"
+ byggeaar="1947/1988"
+ ydelsebrutto="6852"
+ ydelsenetto="5308"
+ kontantpris="1295000"
+ udbetaling="65000"
+ kommunenavn="Frederikssund"
+ aabenthus=""
+ foto1="http://www.realholding.dk/x800/154-615-20.jpg"
+ foto2="http://www.realholding.dk/x800/154-615-21.jpg"
+ url="http://www.realmaeglerne.dk/privat/emnevisning.aspx?sag=154-615" />
+
+</sagliste>
+</batch>
